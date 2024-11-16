@@ -23,8 +23,7 @@ function convertToRoman(num) {
     return roman; // Return the Roman numeral as a string
 }
 
-// Examples:
-   // Output: XXXVI
+
 
 // Exporting the function for testing purposes
 module.exports = convertToRoman;
